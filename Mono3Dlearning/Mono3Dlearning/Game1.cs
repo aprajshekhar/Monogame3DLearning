@@ -10,6 +10,7 @@ namespace Mono3Dlearning
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
+
         SpriteBatch spriteBatch;
         Model alienModel;
 
